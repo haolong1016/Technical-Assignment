@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: black;
+    color: greenyellow;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+p {
+    font-size: 15px;
+}
+
+table {
+    width:50%;
+    border-collapse:collapse;
+}
+
+table, th, td{
+    border: 1px solid red;
+}
+
